@@ -1,3 +1,7 @@
+Here’s your **updated README** with everything integrated (including the `designs/` folder mention and calibration guide reference):
+
+---
+
 # Glove Integrity Testing System (GITS)
 
 **Arduino-Based Pressure Decay Leak Detector**
@@ -56,7 +60,7 @@ This project automates glove leak detection by:
 ### 1. Hardware Assembly
 
 1. Connect all components as shown in the [wiring diagram](./docs/wiring_diagram.png).
-2. Ensure an **airtight glove attachment** (e.g., use a 3D-printed adapter).
+2. Ensure an **airtight glove attachment** (e.g., use a 3D-printed adapter from the `designs/` folder).
 
 ### 2. Software
 
@@ -87,6 +91,30 @@ This project automates glove leak detection by:
 * **Enclosure Design** – 3D-printed case for portability.
 * **Data Logging** – Export test results to SD card.
 * **User Threshold Adjustments** – Via onboard potentiometer.
+* **Quieter Pump** – For medical/lab environments.
+* **ROS2 Integration** – For remote monitoring and control.
+
+---
+
+## 📁 Project Structure
+
+```
+GITS/
+├── GITS.ino                # Main Arduino code
+├── README.md               # Project documentation
+├── LICENSE                 # License file
+├── docs/
+│   ├── wiring_diagram.png  # Wiring diagram
+│   ├── Calibration.md      # Sensor calibration guide
+├── assets/
+│   ├── setup.jpg           # Prototype photo
+│   ├── sensor_closeup.jpg  # Sensor wiring photo
+├── designs/                # 3D models for chassis & adapters
+│   ├── chassis.stl
+│   ├── glove_adapter.stl
+└── extras/
+    ├── notes.txt           # Development notes
+```
 
 ---
 
@@ -98,8 +126,7 @@ This project is licensed under the **MIT License**. See [`LICENSE`](./LICENSE) f
 
 ## 👤 Author
 
-**HATIM AHMED HASSAN** – 2025
-
-For questions or collaboration, open an issue or contact **xayari229@gmail.com**.
+**Hatim Ahmed Hassan** – 2025
+For questions or collaboration, open an issue or contact **[xayari229@gmail.com](mailto:xayari229@gmail.com)**.
 
 ---
