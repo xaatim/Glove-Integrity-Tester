@@ -1,0 +1,19 @@
+
+---
+
+### **`extras/notes.txt`**
+```txt
+# Development Notes - GITS
+
+- Target pressure for testing: 25 kPa (adjustable in code).
+- Leak threshold: currently set to 2 kPa drop over 10 seconds.
+- Air pump is controlled via L298N to prevent overcurrent.
+- Solenoid valve opens after test to release pressure safely.
+- LCD displays:
+    - Live pressure (kPa)
+    - Test status (Inflating / Stabilizing / Testing / Pass / Fail)
+- Serial output is enabled for debugging and logging.
+- Future consideration: integrate SD card module for data storage.
+- Consider replacing the pump with a quieter unit for lab environments.
+- ROS2 integration possible for remote control (not implemented yet).
+- "designs" folder contains STL files for the chassis and glove adapter.
