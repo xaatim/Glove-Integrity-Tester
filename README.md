@@ -1,9 +1,3 @@
-Perfect — badges make the README look **professional and GitHub-friendly**.
-
-Here’s your **final polished README** with **badges** + improved formatting:
-
----
-
 # Glove Integrity Testing System (GITS)
 
 **Arduino-Based Pressure Decay Leak Detector**
