@@ -111,8 +111,8 @@ GITS/
 │   ├── sensor_closeup.jpg  # Sensor wiring photo
 └── extras/
     ├── notes.txt           # Development notes               
-│   ├── chassis.stl         # 3D models for chassis & adapters
-│   ├── ...
+    ├── chassis.stl         # 3D models for chassis & adapters
+    ├── ...
 ```
 
 ---
