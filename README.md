@@ -104,7 +104,8 @@ This project is licensed under the **MIT License**. See [`LICENSE`](./LICENSE) f
 
 ## 👤 Author
 
-**HATIM AHMED HASSAN** – \2025
-For questions or collaboration, open an issue or contact **\xayari229@gmail.com**.
+**HATIM AHMED HASSAN** – 2025
+
+For questions or collaboration, open an issue or contact **xayari229@gmail.com**.
 
 ---
