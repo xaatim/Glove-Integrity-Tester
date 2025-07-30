@@ -109,11 +109,10 @@ GITS/
 ├── assets/
 │   ├── setup.jpg           # Prototype photo
 │   ├── sensor_closeup.jpg  # Sensor wiring photo
-├── designs/                # 3D models for chassis & adapters
-│   ├── chassis.stl
-│   ├── glove_adapter.stl
 └── extras/
-    ├── notes.txt           # Development notes
+    ├── notes.txt           # Development notes               
+│   ├── chassis.stl         # 3D models for chassis & adapters
+│   ├── ...
 ```
 
 ---
