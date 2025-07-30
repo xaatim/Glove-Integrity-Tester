@@ -78,10 +78,10 @@ This project automates glove leak detection by:
 
 ## 📷 Images
 
-![Prototype Setup](./assets/setup.jpg)
+![Prototype Setup](./extras/image(2).jpg)
 *Figure 1: Prototype with pump, Arduino, and LCD.*
 
-![Sensor Close-up](./assets/sensor_closeup.jpg)
+![Sensor Close-up](./extras/image(1).jpg)
 *Figure 2: Pressure sensor and valve wiring.*
 
 ---
