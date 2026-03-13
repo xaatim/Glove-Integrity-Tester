@@ -1,6 +1,3 @@
-Here’s your **updated README** with everything integrated (including the `designs/` folder mention and calibration guide reference):
-
----
 
 # Glove Integrity Testing System (GITS)
 
